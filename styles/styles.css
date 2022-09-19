@@ -1,0 +1,107 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.top-line {
+position: relative;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+
+}
+.web {
+    position: absolute;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196F3;
+width: 145px;
+height: 31px;
+left: 215px;
+
+
+}
+.studio {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+.list1 {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.top1 {
+    position: absolute;
+    width: 45px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+ }
+.top2 {
+    position: absolute;
+    width: 72px;
+    height: 16px;
+    left: 548px;
+    top: 32px;
+}
+.top3 {
+    position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 670px;
+    top: 32px;
+ }
+.top4 {
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+} 
+.top5 {
+position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #757575;
+}
+.link1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #2196F3;
+
+}
+.link2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #000000;
+}
