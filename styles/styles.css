@@ -299,3 +299,67 @@ background-color: beige;
         text-decoration: none;
         color: #757575;
     }
+    /*types of work*/
+    .worktypes {
+        position: relative;
+        width: 1170px;
+        height: 386px;
+        background-color: beige;
+        left: 215px;
+        top: 192px;
+    }
+.action {
+    margin-top: 0px;
+position: absolute;
+width: 370px;
+height: 42px;
+left: 400px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.card1 {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 0px;
+    top: 92px;
+}
+.card2 {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 400px;
+    top: 92px;
+}
+.card3 {
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 800px;
+    top: 92px;
+}
+.team {
+    position: relative;
+    width: 1600px;
+    height: 648px;
+    left: 0px;
+    top: 288px;
+    background-color: #F5F4FA;
+}
+.footer {
+    position: relative;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 290px;
+    margin-top: 0px;
+    background-color: #2f303a;
+}
